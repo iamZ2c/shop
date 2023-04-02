@@ -1,0 +1,2 @@
+{"level":"info","ts":1670333873.1275475,"caller":"user_web/main.go:22","msg":"request failed","url":"www.baidu,com","times":3}
+{"level":"info","ts":1670333873.1281,"caller":"user_web/main.go:24","msg":"request failed","url":"www.baidu.com","times":3}

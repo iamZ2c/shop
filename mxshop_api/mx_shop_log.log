@@ -1,0 +1,391 @@
+{"level":"info","ts":1670426232.825553,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670426251.7137964,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670426340.4456618,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670426374.2202296,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 %s"}
+{"level":"info","ts":1670426404.473978,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 %s"}
+{"level":"info","ts":1670664265.9837139,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670664364.3106859,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670687604.770425,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 %!s(int=0)"}
+{"level":"info","ts":1670687604.7844453,"caller":"user_web/main.go:15","msg":"服务器失败，msg： listen tcp: lookup tcp/%!s(int=0): getaddrinfow: The specified class was not found."}
+{"level":"info","ts":1670687635.3048906,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1670687635.3098745,"caller":"user_web/main.go:15","msg":"服务器失败，msg： listen tcp: lookup tcp/%!s(int=0): getaddrinfow: The specified class was not found."}
+{"level":"info","ts":1670687723.6555927,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1670687723.6602304,"caller":"user_web/main.go:15","msg":"服务器失败，msg： listen tcp: lookup tcp/%!s(int=0): getaddrinfow: The specified class was not found."}
+{"level":"info","ts":1670692332.84193,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 %!s(int=0)"}
+{"level":"info","ts":1670692332.8462012,"caller":"user_web/main.go:15","msg":"服务器失败，msg： listen tcp: lookup tcp/%!s(int=0): getaddrinfow: The specified class was not found."}
+{"level":"info","ts":1670692353.0883753,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1670692353.0931733,"caller":"user_web/main.go:15","msg":"服务器失败，msg： listen tcp: lookup tcp/%!s(int=0): getaddrinfow: The specified class was not found."}
+{"level":"info","ts":1670693042.4568534,"caller":"user_web/main.go:14","msg":"服务器启动，端口为 %!s(int=0)"}
+{"level":"info","ts":1670693057.8474848,"caller":"user_web/main.go:14","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1670693139.1937163,"caller":"user_web/main.go:14","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1670693246.2867305,"caller":"user_web/main.go:14","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1670693750.6445656,"caller":"user_web/main.go:14","msg":"服务器启动，端口为 3306"}
+{"level":"info","ts":1670693815.3525696,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 3306"}
+{"level":"info","ts":1670693815.3573253,"caller":"user_web/main.go:15","msg":"服务器失败，msg： listen tcp: lookup tcp/%!s(int=3306): getaddrinfow: The specified class was not found."}
+{"level":"info","ts":1670693840.8005803,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 3306"}
+{"level":"info","ts":1670693840.8016098,"caller":"user_web/main.go:15","msg":"服务器失败，msg： listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"info","ts":1670693874.0708416,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1670755899.2885754,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1670756043.6243691,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1670756134.7677915,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1670756372.5337336,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1670756535.559199,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1670756606.96928,"caller":"user_web/main.go:13","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670773927.4862328,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670774112.892165,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670774138.4349031,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670774184.2495053,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670774186.3819604,"caller":"validator/validators.go:15","msg":"false"}
+{"level":"info","ts":1670774259.1245003,"caller":"validator/validators.go:15","msg":"false"}
+{"level":"info","ts":1670774266.3775036,"caller":"validator/validators.go:15","msg":"false"}
+{"level":"info","ts":1670774267.0689008,"caller":"validator/validators.go:15","msg":"false"}
+{"level":"info","ts":1670774379.8604107,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670774381.2390943,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670774382.8354352,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670774384.288352,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670856561.2833366,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670856570.9728906,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670856580.7598166,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670856799.9186606,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1670856799.9210765,"caller":"api/user.go:123","msg":"[LoginByPassWord] GetUserByMobile Rpc error","info":"rpc error: code = NotFound desc = user not found","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:123\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1670856831.2685335,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1670856831.2718034,"caller":"api/user.go:123","msg":"[LoginByPassWord] GetUserByMobile Rpc error","info":"rpc error: code = NotFound desc = user not found","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:123\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1670856914.8050506,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857378.0544343,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670857384.7528896,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857397.9818695,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857451.3933399,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857452.5935478,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857453.6489308,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857486.1214612,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857487.0477302,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857487.4565449,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857488.776992,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857489.372867,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857489.9788084,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857490.5700762,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857491.1815054,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857492.7531462,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857493.7636008,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857494.360044,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857494.9237275,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857504.5754802,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857536.81344,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670857540.8236742,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857561.5150762,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857562.8205326,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857597.2016819,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857640.1251984,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857724.302738,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857731.9515905,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857732.9510565,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857819.7055044,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857822.6605315,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857853.7293046,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857868.1352875,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857869.8661683,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857886.9027183,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670857887.753376,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857892.1860843,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857893.473114,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857899.1934314,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857900.316619,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857906.8354,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670857907.602112,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857908.7666523,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670857909.6832535,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670858170.859079,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670858172.8808212,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670858182.784097,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670858188.7744331,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670947225.1742058,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1670947241.2615747,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670947248.8447585,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1670947249.6689618,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671023111.6360257,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671023117.887088,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671023119.9546068,"caller":"api/user.go:126","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:126\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671023147.3595045,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671023149.394428,"caller":"api/user.go:126","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:126\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671023161.13422,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671023165.0386293,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671023167.0667682,"caller":"api/user.go:126","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:126\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671023191.5109162,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671023193.548997,"caller":"api/user.go:126","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:126\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671023211.0500174,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671023215.0290828,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671023217.0900676,"caller":"api/user.go:126","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:126\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671023287.0632167,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671023432.3469322,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671023460.1339464,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671023509.5455394,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671023570.3893754,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671025004.580112,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671025119.7881274,"caller":"user_web/main.go:23","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671025122.7268934,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671114372.382991,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671116966.0293205,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671118631.0745215,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671119372.4344308,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671119424.5501842,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671119426.6210437,"caller":"api/user.go:133","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:133\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671119432.6571481,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671459983.2574804,"caller":"user_web/main.go:25","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671460357.6323788,"caller":"user_web/main.go:25","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671460730.6004767,"caller":"user_web/main.go:25","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671460843.5169427,"caller":"user_web/main.go:25","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671460860.7942183,"caller":"user_web/main.go:25","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671460921.8899443,"caller":"user_web/main.go:25","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671460953.7105694,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671460958.1419635,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671461092.220908,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671461094.2824492,"caller":"api/user.go:133","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:133\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671461110.636922,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671461145.8633752,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1671461147.9035838,"caller":"api/user.go:133","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:133\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"error","ts":1671461241.9319685,"caller":"api/sms.go:38","msg":"[SendSms]","err":"Key: 'SendSmsForm.Mobile' Error:Field validation for 'Mobile' failed on the 'required' tag","stacktrace":"mxshop_api/user_web/api.SendSms\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/sms.go:38\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1671461292.3321502,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671461447.3650181,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671461568.1752517,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671461570.848133,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671461685.24176,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671461688.1305623,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671461712.0242648,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671461719.816463,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671461728.6202886,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671631399.4412782,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671631571.9060192,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671631755.0703435,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671631928.562997,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671631929.7811348,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671631958.6948674,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671631959.515434,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671631999.6813068,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671632002.916469,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632016.3896935,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632026.4895136,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632098.904466,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671632100.804373,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632316.4368725,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671632318.34593,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632328.0075245,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632480.5473397,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1671632482.0845134,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632568.6597126,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632784.3016686,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632789.4460325,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632797.5357955,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1671632854.6635528,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1672926384.159903,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1672926403.6888342,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1673182343.9225056,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1673277776.3288891,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675511304.4942615,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1675511493.9139993,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 50053"}
+{"level":"info","ts":1675511649.0623908,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675511660.9751768,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1675511753.0059962,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1675511755.081899,"caller":"api/user.go:146","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:146\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675511764.0505757,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"info","ts":1675511858.954716,"caller":"validator/validators.go:15","msg":"true"}
+{"level":"error","ts":1675511860.994828,"caller":"api/user.go:146","msg":"[LoginByPassWord] GetUserByMobile Rpc error, return nil","info":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp 0.0.0.0:50053: connectex: No connection could be made because the target machine actively refused it.\"","stacktrace":"mxshop_api/user_web/api.LoginByPassWord\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:146\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675511914.2673173,"caller":"validator/validators.go:15","msg":"false"}
+{"level":"info","ts":1675512034.1123674,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675512039.0977063,"caller":"api/user.go:67","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///:%!s(int=0)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:67\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"error","ts":1675512044.6928067,"caller":"api/user.go:67","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///:%!s(int=0)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:67\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675513127.7366076,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675513148.16779,"caller":"api/user.go:67","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///:%!s(int=0)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:67\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675513275.0515766,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675513278.3434684,"caller":"api/user.go:67","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///127.0.0.1:%!s(int=50053)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:67\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675513363.7151074,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675513375.7713869,"caller":"api/user.go:67","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///127.0.0.1:%!s(int=50053)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:67\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675513439.6735713,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675513514.1562538,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675513517.4857898,"caller":"api/user.go:66","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///127.0.0.1:%!s(int=50053)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:66\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675513723.7696369,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675513744.388964,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675513808.0805829,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675513810.1555464,"caller":"api/user.go:66","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///127.0.0.1:%!s(int=50053)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:66\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675514117.3523088,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675514131.354994,"caller":"api/user.go:67","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///0.0.0.0:%!s(int=50053)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:67\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675514318.121081,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675514337.3333647,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675514348.5125647,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675514478.0791242,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675514559.8886514,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"error","ts":1675514564.6127508,"caller":"api/user.go:60","msg":"[GetUserList] 连接失败","info":"parse \"passthrough:///127.0.0.1:%!s(int=50053)\": invalid URL escape \"%!s\"","stacktrace":"mxshop_api/user_web/api.GetUserList\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/api/user.go:60\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/recovery.go:101\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/logger.go:240\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/context.go:173\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:616\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/go/bin/pkg/mod/github.com/gin-gonic/gin@v1.8.1/gin.go:572\nnet/http.serverHandler.ServeHTTP\n\tD:/go/src/net/http/server.go:2916\nnet/http.(*conn).serve\n\tD:/go/src/net/http/server.go:1966"}
+{"level":"info","ts":1675514812.205132,"caller":"user_web/main.go:22","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675580824.7277763,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675581070.0752397,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675581084.9934087,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675581142.4228294,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675581210.515925,"caller":"user_web/main.go:24","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675610261.1766496,"caller":"user_web/main.go:27","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675610344.6932292,"caller":"user_web/main.go:27","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675610382.3168447,"caller":"user_web/main.go:27","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1675610415.9235916,"caller":"user_web/main.go:27","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676384034.5757875,"caller":"user_web/main.go:32","msg":"服务器启动，端口为 64286"}
+{"level":"info","ts":1676384089.135468,"caller":"user_web/main.go:32","msg":"服务器启动，端口为 64296"}
+{"level":"info","ts":1676385079.7379844,"caller":"user_web/main.go:32","msg":"服务器启动，端口为 64449"}
+{"level":"info","ts":1676385570.4297085,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676385600.1088655,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676385714.4179857,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 18899"}
+{"level":"info","ts":1676386596.3110633,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 18899"}
+{"level":"info","ts":1676386703.4091856,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 18899"}
+{"level":"info","ts":1676386722.532013,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676387080.002893,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676387427.339801,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676387507.9550145,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676387557.0398583,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676387581.5515432,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676468902.15662,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676468918.9015296,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676468987.2907274,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1676817277.5356655,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1678201804.7968264,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1678203811.552595,"caller":"user_web/main.go:26","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1678279991.4193342,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678286429.7452924,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678286464.001645,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678286572.224583,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678286693.1243625,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678286899.6129036,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678287185.6179,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678287246.5576274,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678287273.8569233,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678287499.498643,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678287525.0605829,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678287958.898686,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678369114.1382833,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678369608.6430774,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678370574.879982,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678371116.1406915,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678371152.265423,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678372673.8422215,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678372715.9847429,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678372736.6421874,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678372767.1150653,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678372869.2828403,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678372907.773451,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678373153.2727702,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678376295.4239523,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678377871.7463732,"caller":"good_web/main.go:26","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678590234.3141217,"caller":"good_web/main.go:34","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678590315.0297003,"caller":"good_web/main.go:34","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678590707.9215837,"caller":"good_web/main.go:34","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678590924.261406,"caller":"good_web/main.go:34","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678592412.3706617,"caller":"good_web/main.go:35","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678637353.5151622,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"error","ts":1678637397.4302864,"caller":"user_web/main.go:33","msg":"Unexpected response code: 400 (Missing service name)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/main.go:33\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1678637397.4313555,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 0"}
+{"level":"error","ts":1678637739.527405,"caller":"user_web/main.go:33","msg":"Unexpected response code: 400 (Missing service name)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/main.go:33\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1678637739.528453,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 0"}
+{"level":"error","ts":1678637946.4054897,"caller":"user_web/main.go:33","msg":"Unexpected response code: 400 (Missing service name)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/main.go:33\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1678637946.4065242,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 0"}
+{"level":"error","ts":1678637954.1850777,"caller":"user_web/main.go:33","msg":"Unexpected response code: 400 (Missing service name)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/main.go:33\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1678637954.185588,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 0"}
+{"level":"error","ts":1678638095.0691712,"caller":"user_web/main.go:33","msg":"Unexpected response code: 400 (Missing service name)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/main.go:33\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1678638095.0702224,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 0"}
+{"level":"error","ts":1678638166.6177797,"caller":"user_web/main.go:33","msg":"Unexpected response code: 400 (Missing service name)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/user_web/main.go:33\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1678638166.6188304,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 0"}
+{"level":"info","ts":1678638274.894144,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638384.6331785,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638391.7844748,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638462.6488948,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638585.5066965,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638603.0600097,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638613.5277524,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638676.0240383,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638725.060991,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638743.497667,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638767.9284039,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638854.660705,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638899.1646888,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678638899.1652205,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678638927.5164351,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678639021.4994469,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678639083.0034747,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678639112.2310445,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678639147.441659,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639212.8785675,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639212.8796515,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639227.828467,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639227.8295214,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639239.4655414,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639239.466654,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639321.7640088,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639321.7645445,"caller":"user_web/main.go:38","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639340.045077,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639340.0456152,"caller":"user_web/main.go:38","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639435.4373667,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639435.4384234,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639468.0711157,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639468.0729923,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639508.2056897,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639508.206734,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639541.504673,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639541.5051956,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639743.8623543,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639743.8723342,"caller":"user_web/main.go:41","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639786.6648357,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639828.123743,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639833.1441777,"caller":"user_web/main.go:42","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678639848.1221027,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639876.407193,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678639881.3975854,"caller":"user_web/main.go:27","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678716312.821176,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678716312.8222525,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678716331.4178195,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678716331.418882,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678716350.351954,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678716350.3530235,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678716361.2631905,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1678716361.2637138,"caller":"user_web/main.go:39","msg":"服务器启动，端口为 2346"}
+{"level":"info","ts":1678716416.088737,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716564.1250668,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716580.173822,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716598.3261287,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716614.7970033,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716633.7299225,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716660.5130706,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716765.7942781,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716793.5553021,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678716821.498726,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678718796.7673934,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678800495.8048198,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678800707.7221894,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678800791.9161658,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678800825.7277393,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678800868.9455895,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678800878.3380718,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678800939.5586798,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678801180.1630547,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678801233.2491386,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678801255.9497857,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678801275.3385906,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1678801297.855327,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679835069.8892703,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679835069.9277592,"caller":"good_web/main.go:41","msg":"服务器失败，msg： listen tcp: lookup tcp/%!d(string=127.0.0.1): getaddrinfow: The specified class was not found."}
+{"level":"error","ts":1679835085.5985713,"caller":"good_web/main.go:57","msg":"Unexpected response code: 404 (Unknown service ID \"6916aa77-4874-42b6-99ce-e65323f0fcca\". Ensure that the service ID is passed, not the service name.)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/good_web/main.go:57\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1679835091.1939964,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679835091.2005048,"caller":"good_web/main.go:41","msg":"服务器失败，msg： listen tcp: lookup tcp/%!d(string=127.0.0.1): getaddrinfow: The specified class was not found."}
+{"level":"error","ts":1679835109.305638,"caller":"good_web/main.go:57","msg":"Unexpected response code: 404 (Unknown service ID \"1ad9432f-5d61-4916-9c4f-906f10425359\". Ensure that the service ID is passed, not the service name.)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/good_web/main.go:57\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1679835114.8448935,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679835114.8501918,"caller":"good_web/main.go:41","msg":"服务器失败，msg： listen tcp: lookup tcp/%!d(string=127.0.0.1): getaddrinfow: The specified class was not found."}
+{"level":"error","ts":1679835239.0509999,"caller":"good_web/main.go:57","msg":"Unexpected response code: 404 (Unknown service ID \"2c1c5ed2-1679-423d-acca-5f20ea37fd6a\". Ensure that the service ID is passed, not the service name.)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/good_web/main.go:57\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1679835296.951172,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679835296.958067,"caller":"good_web/main.go:41","msg":"服务器失败，msg： listen tcp: lookup tcp/%!d(string=127.0.0.1): getaddrinfow: The specified class was not found."}
+{"level":"error","ts":1679835311.1705155,"caller":"good_web/main.go:57","msg":"Unexpected response code: 404 (Unknown service ID \"fd05869b-6617-4958-940f-43d16aab470d\". Ensure that the service ID is passed, not the service name.)","stacktrace":"main.main\n\tC:/Users/张宸铖/GolandProjects/mxshop_api/good_web/main.go:57\nruntime.main\n\tD:/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1679835347.2741487,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679835347.280598,"caller":"good_web/main.go:41","msg":"服务器失败，msg： listen tcp: lookup tcp/%!d(string=127.0.0.1): getaddrinfow: The specified class was not found."}
+{"level":"info","ts":1679835508.630736,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679835718.2257395,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836097.595808,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836384.8506842,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836402.6065009,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836416.3721514,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836434.48158,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836479.1271405,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836503.9226937,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
+{"level":"info","ts":1679836515.282823,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1679836515.2838724,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
