@@ -10,8 +10,7 @@ import (
 )
 
 func InitGrpcUserSrvClient() {
-
-	conn, err := grpc.Dial(fmt.Sprintf("consul://%s:%v/usr-srv?tag=iam2cc", global.NacosConf.ConsulConfig.Host, global.NacosConf.ConsulConfig.Port),
+	conn, err := grpc.Dial(fmt.Sprintf("consul://%s:%v/user_srv?tag=user-srv", global.NacosConf.ConsulConfig.Host, global.NacosConf.ConsulConfig.Port),
 		grpc.WithInsecure(),
 		// 进程内轮询负载均衡
 		grpc.WithDefaultServiceConfig(`{"loadBalancingPolicy": "round_robin"}`),
@@ -22,6 +21,6 @@ func InitGrpcUserSrvClient() {
 			"info", err.Error(),
 		)
 	}
-
+	//conn, err = grpc.Dial("192.168.10.12:2346", grpc.WithInsecure())
 	global.UserSrvClient = proto.NewUserClient(conn)
 }

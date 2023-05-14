@@ -13,6 +13,7 @@ service Inventory{
 message InvInfo{
   int32 goodsId = 1;
   int32 num = 2;
+  int32 version=3;
 }
 message SellInfo{
   repeated InvInfo goodsInfo = 1;

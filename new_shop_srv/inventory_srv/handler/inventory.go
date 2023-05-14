@@ -48,16 +48,38 @@ func (*InventoryServer) Sell(ctx context.Context, req *proto.SellInfo) (*emptypb
 	for _, goodsInfo := range req.GoodsInfo {
 
 		inv := model.Inventory{}
-		res := global.DB.First(&inv).Where("good_id=?", goodsInfo.GoodsId)
-		if res.RowsAffected == 0 {
-			tx.Rollback()
-			return nil, status.Error(codes.InvalidArgument, "库存信息不存在")
+
+		// redis分布式锁
+		Mutex := global.Rs.NewMutex(fmt.Sprintf("goods_%v", goodsInfo.GoodsId))
+		// 加锁
+		if err := Mutex.Lock(); err != nil {
+			return nil, status.Error(codes.Internal, "锁获取异常")
 		}
-		if inv.Stocks < goodsInfo.Num {
-			tx.Rollback()
-			return nil, status.Error(codes.InvalidArgument, "库存不足")
+		// 释放锁
+		if ok, err := Mutex.Unlock(); !ok || err != nil {
+			return nil, status.Error(codes.Internal, "释放锁异常 ")
 		}
-		inv.Stocks -= goodsInfo.Num
+
+		// 使用mysql for update 悲观锁
+		//res := tx.Clauses(clause.Locking{Strength: "UPDATE"}).Where("good_id=?", goodsInfo.GoodsId).First(&inv)
+
+		for true {
+			res := tx.Where("good_id=?", goodsInfo.GoodsId).First(&inv)
+			if res.RowsAffected == 0 {
+				tx.Rollback()
+				return nil, status.Error(codes.InvalidArgument, "库存信息不存在")
+			}
+			if inv.Stocks < goodsInfo.Num {
+				tx.Rollback()
+				return nil, status.Error(codes.InvalidArgument, "库存不足")
+			}
+			inv.Stocks -= goodsInfo.Num
+			// 乐观锁，更新的时候查看版本呢是否与前面一致
+			res = tx.Select("stocks", "version").Where("goods_id=? AND version=?", goodsInfo.GoodsId, goodsInfo.Version)
+			if res.RowsAffected != 0 {
+				break
+			}
+		}
 		tx.Save(&inv)
 	}
 	tx.Commit()

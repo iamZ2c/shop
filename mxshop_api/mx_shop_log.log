@@ -389,3 +389,37 @@
 {"level":"info","ts":1679836503.9226937,"caller":"good_web/main.go:39","msg":"服务器启动，端口为 9999"}
 {"level":"info","ts":1679836515.282823,"caller":"register/registerConsul.go:52","msg":"注册成功"}
 {"level":"info","ts":1679836515.2838724,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681039233.3607852,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681039233.3618584,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681044753.192335,"caller":"user_web/main.go:34","msg":"Put \"http://127.0.0.1:8500/v1/agent/service/register\": dial tcp 127.0.0.1:8500: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":1681044753.19411,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681044816.9626985,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681044816.9642925,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045082.7224693,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045082.7229936,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045296.084571,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045296.0856006,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045332.8861055,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045332.887158,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045540.9359884,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045540.937016,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045667.145704,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045667.146229,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045748.851701,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045748.85274,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045791.8844543,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045791.885486,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681045985.7952929,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681045985.7969384,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681046040.1948218,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681046040.1964471,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681046234.3518586,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681046234.3523762,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681046320.320331,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681046320.3213944,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681046679.9380512,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681046679.9390898,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681046720.6008055,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681046720.6018467,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}
+{"level":"info","ts":1681561880.727089,"caller":"register/registerConsul.go:52","msg":"注册成功"}
+{"level":"info","ts":1681561880.728736,"caller":"user_web/main.go:40","msg":"服务器启动，端口为 8899"}

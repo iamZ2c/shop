@@ -1,0 +1,104 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option go_package = "./;proto";
+
+
+service Order{
+  // 购物车
+  rpc CartItemList(UserInfo) returns(CartItemListResp); // 获取用户购物车信息
+
+  rpc CreateCartItem(CartItemReq) returns(ShopCartInfoResp);// 添加商品到购物车
+
+  rpc UpdateCartItem(CartItemReq) returns(google.protobuf.Empty);// 修改购物车记录
+  // 订单
+  rpc Create(OrderReq) returns(OrderInfoResp); // 创建订单
+
+  rpc OrderList(OrderFilterReq)returns(OrderListResp); // 订单列表
+
+  rpc OrderDetail(OrderReq) returns(OrderInfoDetailResp);//
+
+  rpc UpdateOrderStatus(OrderStatus) returns(google.protobuf.Empty); //修改订单状态
+
+}
+// 购物车
+message UserInfo{
+  int32 id = 1;
+}
+message CartItemListResp{
+  int32 total = 1;
+  repeated ShopCartInfoResp data = 2;
+}
+
+message ShopCartInfoResp{
+  int32 id = 1;
+  int32 userId = 2;
+  int32 goodsId = 3;
+  int32 nums = 4;
+  bool checked = 5;
+}
+
+message CartItemReq{
+  int32 id = 1;
+  int32 userId = 2;
+  int32 goodsId = 3;
+  int32 nums = 4;
+  bool checked = 5;
+  string goodsName = 6;
+  string goodsImage = 7;
+  int32 goodsPrice = 8;
+
+}
+// 订单
+message OrderReq{
+  int32 id = 1;
+  int32 userId = 2;
+  string address = 3;
+  string name = 4;
+  string mobile = 5;
+  string post = 6;
+}
+message OrderInfoResp{
+  int32 id = 1;
+  int32 userId = 2;
+  string orderSn = 3;
+  string payType = 4;
+  string status = 5;
+  string post = 6;
+  float total = 7;
+  string address = 8;
+  string name = 9;
+  string mobile = 10 ;
+
+}
+// 订单分页
+message OrderFilterReq{
+  int32 userId = 1;
+  int32 pages = 2;
+  int32 pagePerNums = 3;
+}
+message OrderListResp{
+  int32 total = 1;
+  repeated OrderInfoResp data = 2;
+}
+message OrderInfoDetailResp{
+  OrderInfoResp orderInfo = 1;
+  repeated OrderItemResp goods = 2;
+}
+
+message OrderItemResp{
+  int32 id = 1;
+  int32 orderId = 2;
+  int32 goodsId = 3;
+  string goodsName = 4;
+  string goodsImage = 5;
+  int32 goodsPrice = 6;
+
+}
+
+message OrderStatus{
+  int32 id = 1;
+  // 解决支付宝问题
+  string orderSn = 2;
+  string status = 3;
+
+}

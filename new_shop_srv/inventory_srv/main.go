@@ -18,6 +18,7 @@ import (
 func main() {
 	initialize.InitConfig()
 	initialize.SqlClientInit()
+	initialize.RedisMutexInit()
 	server := grpc.NewServer()
 	conf := global.NacosConf.InventorySrv
 	IP := flag.String("IP", conf.Host, "this is ip address")

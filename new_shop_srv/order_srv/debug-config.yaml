@@ -1,0 +1,14 @@
+nacosconfig:
+  nserverconfig:
+    host: "192.168.10.12"
+    port: "8848"
+  nclientconfig:
+    namespace: "dff65b02-e7ac-4714-8d73-ff05227a70ae"
+    timeoutms: 500
+    logdir: "/tmp/nacos/log"
+    cachedir: "/tmp/nacos/cache"
+    loglevel: "debug"
+
+
+
+
