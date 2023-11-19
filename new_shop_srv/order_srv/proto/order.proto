@@ -10,6 +10,8 @@ service Order{
   rpc CreateCartItem(CartItemReq) returns(ShopCartInfoResp);// 添加商品到购物车
 
   rpc UpdateCartItem(CartItemReq) returns(google.protobuf.Empty);// 修改购物车记录
+
+  rpc DeleteCartItem(CartItemReq) returns(google.protobuf.Empty);// 删除
   // 订单
   rpc Create(OrderReq) returns(OrderInfoResp); // 创建订单
 

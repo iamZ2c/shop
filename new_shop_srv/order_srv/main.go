@@ -17,6 +17,7 @@ import (
 func main() {
 	initialize.InitConfig()
 	initialize.SqlClientInit()
+	initialize.InitSrvClient()
 	IP := flag.String("IP", global.NacosConf.OrderSrv.Host, "this is ip address")
 	Port := flag.Int64("Port", int64(global.NacosConf.OrderSrv.Port), "this is port")
 	flag.Parse()

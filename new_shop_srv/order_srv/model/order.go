@@ -24,6 +24,7 @@ type OrderInfo struct {
 	SignerName   string `gorm:"type:varchar(20)"`
 	SingerMobile string `gorm:"type:varchar(11)"`
 	Post         string `gorm:"type:varchar(20)"`
+	Total        float32
 }
 
 func (OrderInfo) TableName() string {
